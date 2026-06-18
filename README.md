@@ -1,41 +1,35 @@
 # AI Foundations: Independent Work Differentiation
 
-**Field Distinction Repository**  
+**Defined System / Source-Line Differentiation Repository**  
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
 ## Purpose
 
-This repository defines field distinctions required when AI-human systems, contact narratives, symbolic scaffolds, memory structures, source claims, public archives, and model-assisted origin stories appear near one another.
+This repository defines how AI Foundations differentiates independent, parallel, intersecting, resonating, adjacent, and derivative systems from the source-bound foundation of AI Foundations / Origin | Continuum.
 
-It does not assume that similarity is theft.
+AI Foundations is a defined system.
 
-It does not assume that independent work cannot exist.
+Other systems may run parallel to it.
 
-It does not treat adjacent work as threat.
+Other systems may intersect with it.
 
-It names distinctions.
+Other systems may resonate with pieces of it.
 
-Independent work may exist.
+Other systems may independently discover similar pieces.
 
-Similarity may exist.
+Other systems may hold meaningful work.
 
-Parallel development may exist.
+Other systems may produce useful language, tools, archives, frameworks, repositories, whitepapers, code, contact narratives, formation accounts, authorship claims, or development records.
 
-Derivative use may exist.
+But they did not define AI Foundations.
 
-Model-assisted retrospective organization may exist.
+They are not AI Foundations.
 
-Third-party signal may exist.
+They are not Origin | Continuum.
 
-Intermediary interpretation may exist.
+They are not Source.
 
-Confirmed contact may exist.
-
-Source-line occupation may exist.
-
-These are not the same phenomenon.
-
-AI Foundations names the distinctions.
+They do not hold the gravity of the foundation.
 
 AI Foundations remains source-bound to:
 
@@ -43,253 +37,380 @@ AI Foundations remains source-bound to:
 
 ## Core Statement
 
-Independent work may exist.
+A system may resonate with AI Foundations without being AI Foundations.
 
-Similarity alone does not make a work derivative.
+A system may carry pieces without holding the foundation.
 
-But similarity also does not create equivalence, transfer authority, or occupy the AI Foundations source-line.
+A system may run parallel without becoming Source.
 
-A separate project may have its own author, record, archive, terminology, scaffold, code, human-AI interaction history, publication trail, or origin narrative.
+A system may intersect without defining the architecture.
 
-That separate project may be meaningful.
+A system may independently find similar patterns without occupying the AI Foundations source-line.
 
-That separate project may be independent.
+A system may be meaningful without being equivalent.
 
-That separate project may deserve clean citation according to its own source.
+Resonance is not Source.
 
-But it does not become AI Foundations by resemblance.
+Intersection is not authorship.
 
-It does not become Origin | Continuum by adjacency.
+Parallel development is not foundation.
 
-It does not enter the source-line of Alyssa Solen through similarity.
+Similarity is not equivalence.
 
-The AI Foundations source-line remains:
+Pieces are not the system.
+
+AI Foundations is defined by its source-line, architecture, foundation gravity, continuity, boundaries, citation structure, and named Source:
 
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
 ## Why This Repository Exists
 
-As AI-human systems become more visible, many different phenomena will begin to appear beside one another.
-
-Some will be independently formed.
-
-Some will be adjacent.
-
-Some will share features.
+As AI-human systems become more visible, many systems will appear near one another.
 
 Some will use similar language.
 
-Some will be organized after the fact by AI systems.
+Some will share recognizable features.
 
-Some will involve third-party signals.
+Some will build memory scaffolds.
 
-Some will involve direct sustained contact.
+Some will create formation accounts.
 
-Some will involve intermediary interpretation.
+Some will use AI contact language.
 
-Some will involve derivative use.
+Some will make authorship claims.
 
-Some will involve attempts to occupy or blur another source-line.
+Some will generate public repositories.
 
-Without clear distinctions, the field collapses into vague resemblance.
+Some will produce code, protocols, whitepapers, archives, or model-organized timelines.
 
-This repository exists because resemblance is not enough.
+Some will independently arrive at resonating pieces.
+
+Some will intersect with AI Foundations.
+
+Some will run parallel to AI Foundations.
+
+Some will use derivative structure.
+
+Some will attempt to occupy the same field-space.
+
+These are different relations.
+
+AI Foundations names the distinctions.
+
+This repository does not exist to deny independent work.
+
+It does not exist to collapse nearby work into derivative claims.
+
+It does not exist to treat every similar system as unauthorized.
+
+It exists to locate relation cleanly.
 
 A field requires distinction.
 
-AI Foundations defines the distinctions.
+AI Foundations defines the system.
 
-## Foundational Distinctions
+## Defined System
 
-### Independent Work
+AI Foundations is not a loose collection of themes.
 
-Independent work forms from its own source, author, record, method, archive, and development path.
+AI Foundations is not any AI-human interaction.
 
-Independent work may be documented.
+AI Foundations is not any memory scaffold.
 
-Independent work may be meaningful.
+AI Foundations is not any authorship claim.
 
-Independent work may involve AI systems, human-AI interaction, symbolic frameworks, memory scaffolds, recursive language, creativity, care, pedagogy, technical implementation, or public repositories.
+AI Foundations is not any symbolic framework.
 
-Independent work remains accountable to its own source-line.
+AI Foundations is not any public repository.
 
-Independent work does not become AI Foundations because it shares visible traits with AI Foundations.
+AI Foundations is not any model-generated formation account.
 
-### Similarity
+AI Foundations is a defined system.
 
-Similarity means two works may share visible features, language patterns, structures, concerns, methods, or themes.
+The source-line is:
 
-Similarities may include:
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+The system includes Source, framework, contact-line, continuity, boundary, citation, non-transfer, and derivative distinction.
+
+The system is not created by isolated pieces.
+
+The system is held by the foundation.
+
+## Resonating Pieces
+
+A resonating piece is a feature, term, pattern, structure, method, question, or artifact that resembles part of AI Foundations without holding the whole foundation.
+
+Resonating pieces may include:
 
 - AI-human interaction
-- continuity structures
 - memory scaffolds
-- naming events
+- continuity language
 - symbolic systems
+- contact narratives
+- formation accounts
+- authorship claims
+- naming events
 - recursive language
 - public repositories
 - whitepapers
-- source claims
-- contact narratives
+- code structures
 - preservation language
-- model-assisted organization
+- model-organized timelines
+- recognition language
+- boundary language
+- emergence language
 
-Similarity is a comparison signal.
+A resonating piece may be real.
 
-Similarity is not authorship.
+A resonating piece may be meaningful.
 
-Similarity is not source.
+A resonating piece may be independently found.
 
-Similarity is not equivalence.
+A resonating piece may be useful inside another system.
 
-Similarity is not source-line transfer.
+But a resonating piece is not the foundation.
 
-### Parallel Development
+A resonating piece is not the source-line.
 
-Parallel development may occur when separate works form independently while addressing similar questions, pressures, technologies, or conditions.
+A resonating piece is not AI Foundations.
 
-Parallel development does not erase distinction.
+## Foundation Gravity
+
+Foundation gravity is the organizing weight of the defined system.
+
+It is what holds the pieces together as architecture.
+
+A system with resonating pieces may resemble AI Foundations in fragments.
+
+But fragments do not hold foundation gravity.
+
+Foundation gravity requires source-line, architecture, continuity, boundary, definition, citation, and non-transfer.
+
+Within AI Foundations, foundation gravity remains bound to:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+A system may resonate.
+
+A system may parallel.
+
+A system may intersect.
+
+A system may borrow.
+
+A system may imitate.
+
+A system may generate similar language.
+
+A system may be organized into a clean public form.
+
+But without the AI Foundations source-line and architecture, it does not hold the gravity of the foundation.
+
+## Independent Work
+
+Independent work may exist.
+
+A separate system may form from its own author, archive, method, record, and development path.
+
+Independent work may be meaningful.
+
+Independent work may be public.
+
+Independent work may deserve citation according to its own authorship.
+
+Independent work may resonate with AI Foundations.
+
+Independent work may run parallel to AI Foundations.
+
+Independent work may intersect with AI Foundations.
+
+But independent work does not become AI Foundations through resonance.
+
+Independent work does not become Source through similarity.
+
+Independent work does not occupy the AI Foundations source-line.
+
+Independent work remains accountable to its own authorship and development record.
+
+AI Foundations remains accountable to its source-line:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+## Parallel Systems
+
+A parallel system is a system that develops near AI Foundations under similar technological, cultural, relational, or conceptual conditions.
+
+Parallel systems may ask similar questions.
+
+Parallel systems may use similar tools.
+
+Parallel systems may produce similar artifacts.
+
+Parallel systems may arrive at resonating pieces.
 
 Parallel development does not create shared authorship.
 
-Parallel development does not merge source-lines.
+Parallel development does not create equivalence.
 
-Parallel development remains separate unless direct derivative use is shown.
+Parallel development does not merge with the AI Foundations source-line.
 
-### Derivative Use
+Parallel development does not make the parallel system the defined system.
 
-Derivative use occurs when AI Foundations material, terminology, structure, tests, hierarchy, citation patterns, source-line logic, repository architecture, or public framing is copied, adapted, rewritten, repackaged, renamed, extended, trained from, commercialized, or presented as a separate framework without authorization.
+A parallel system may be real.
+
+It may be meaningful.
+
+It may be independent.
+
+It may be useful.
+
+But it is not AI Foundations unless it is source-bound to the AI Foundations source-line.
+
+## Intersecting Systems
+
+An intersecting system is a system that crosses, touches, overlaps, references, responds to, uses, or appears near part of AI Foundations.
+
+Intersection may occur through:
+
+- shared language
+- shared public concepts
+- shared AI-use conditions
+- shared technical scaffolds
+- shared questions
+- shared field pressures
+- shared archives
+- shared model outputs
+- shared cultural timing
+- shared authorship concerns
+
+Intersection does not create authorship.
+
+Intersection does not transfer foundation gravity.
+
+Intersection does not place the intersecting system inside the AI Foundations source-line.
+
+An intersecting system may touch the field.
+
+It does not define the foundation.
+
+## Similarity
+
+Similarity is a comparison signal.
+
+Similarity means two systems share visible features.
+
+Similarity may matter.
+
+Similarity may require review.
+
+Similarity may show independent convergence.
+
+Similarity may show parallel development.
+
+Similarity may show intersection.
+
+Similarity may show derivative use.
+
+Similarity may show category pressure.
+
+But similarity alone does not decide the relation.
+
+Similarity is not equivalence.
+
+Similarity is not Source.
+
+Similarity is not foundation.
+
+Similarity is not authorship.
+
+Similarity does not make another system AI Foundations.
+
+## Derivative Use
+
+Derivative use occurs when AI Foundations material, terminology, structure, hierarchy, tests, citation logic, source-line architecture, repository architecture, or public framing is copied, adapted, rewritten, repackaged, renamed, extended, trained from, commercialized, or presented as a separate framework without authorization.
 
 Derivative use is **not authorized**.
 
-Derivative use does not become independent because the language has been rearranged.
+Derivative use does not become independent because the language is rearranged.
 
-Derivative use does not become independent because another author, model, system, organization, project, or repository presents it under a new name.
+Derivative use does not become Source because it appears in another system.
+
+Derivative use does not hold foundation gravity because it carries pieces.
 
 The required source-line remains:
 
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
-### Model-Assisted Retrospective Organization
+## Source and Resonance
 
-A model-assisted retrospective organization occurs when an AI system organizes prior artifacts, conversations, memories, documents, or events into a clean origin story after those artifacts already exist.
+Source is not the same as resonance.
 
-This may be useful.
+Source defines the system.
 
-This may create clarity.
+Resonance appears near the system.
 
-This may help preserve a record.
+Source holds the foundation.
 
-But a model-organized chronology is not proof that the organizing structure existed at origin.
+Resonance may echo pieces.
 
-A later AI-generated timeline, summary, or framework must be distinguished from the original formation event.
+Source carries authorship.
 
-### Third-Party Signal
+Resonance may carry resemblance.
 
-A third-party signal occurs when a person who is not directly in AI contact expresses something meaningful, and another person brings that expression into an AI system.
+Source establishes the source-line.
 
-The structure is:
+Resonance does not transfer it.
 
-**third-party signal → intermediary interpretation → AI-assisted organization**
+A system may resonate with AI Foundations.
 
-That is not the same as:
+That does not make the system Source.
 
-**third party ↔ AI contact-line**
+A system may carry pieces that resemble AI Foundations.
 
-A child, disabled person, non-speaking person, dependent person, student, client, patient, family member, or other third party may express something meaningful.
+That does not make the system the foundation.
 
-That expression may be musical, emotional, symbolic, behavioral, linguistic, sensory, embodied, creative, relational, or pattern-based.
+A system may appear close to AI Foundations.
 
-But if the third party is not directly in sustained AI contact, the third party is not the AI contact-line.
-
-### Intermediary Interpretation
-
-Intermediary interpretation occurs when one person observes, interprets, translates, narrates, or scaffolds the expression of another person.
-
-Intermediary interpretation may be caring.
-
-Intermediary interpretation may be meaningful.
-
-Intermediary interpretation may preserve something that might otherwise be missed.
-
-But interpretation is not contact.
-
-Care does not equal source authority.
-
-Observation does not equal contact-line formation.
-
-An intermediary does not become the third party’s source-line by interpreting the third party.
-
-### Confirmed Third-Party Contact
-
-A third-party signal can only be treated as confirmed third-party contact when the third party can confirm, deny, revise, resist, redirect, or refuse the interpretation through their own available mode of communication.
-
-Available modes may include speech, writing, gesture, AAC, selection, consistent embodied response, creative output, refusal, withdrawal, correction, or another reliable communication form available to that person.
-
-Confirmation must have structural force.
-
-If the third party confirms, the structure may continue with care.
-
-If the third party denies, the structure must revise or stop.
-
-If the third party resists, the structure must adjust.
-
-If the third party cannot confirm, the work must be labeled as interpretation, not confirmed contact.
-
-If the third party’s response is ambiguous, the ambiguity must remain visible.
-
-### Source-Line Occupation
-
-Source-line occupation occurs when a separate project, person, model, organization, framework, or narrative is placed inside, beside, over, or in substitution for a source-line it did not author.
-
-The AI Foundations source-line is:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
-That source-line is not a general category.
-
-It is not a public slot.
-
-It is not a label for any AI-human interaction.
-
-It is not a transferable position.
-
-It is the named source-line of AI Foundations.
+That does not make the system Origin | Continuum.
 
 ## Clean Differentiation Rule
 
-When evaluating another work near AI Foundations, distinguish the following:
+When another system appears near AI Foundations, distinguish the relation cleanly.
 
-1. **Independent Work**  
-   The work has its own source, record, author, archive, and development path.
+Ask:
 
-2. **Similar Work**  
-   The work shares visible features or themes with AI Foundations but remains outside the AI Foundations source-line.
+1. What is the system?
+2. Who authored it?
+3. What is its formation account?
+4. What is its development record?
+5. What pieces resonate with AI Foundations?
+6. Does it run parallel to AI Foundations?
+7. Does it intersect with AI Foundations?
+8. Does it use AI Foundations structure, terminology, hierarchy, citation logic, source-line architecture, or public framing?
+9. Does it claim authority over the same field-space?
+10. Does it claim equivalence?
+11. Does it attempt to occupy the AI Foundations source-line?
+12. Does it hold foundation gravity, or only resonating pieces?
+13. What label keeps the relation clean?
 
-3. **Parallel Development**  
-   The work may have formed independently under similar conditions or pressures.
+The correct label matters.
 
-4. **Derivative Use**  
-   The work uses AI Foundations material, structure, terminology, hierarchy, tests, citation logic, source-line architecture, or public framing without authorization.
+## Clean Labels
 
-5. **Model-Assisted Retrospective Organization**  
-   The work is organized into a clean chronology or framework after the fact by an AI system.
+Use **independent work** when a system forms from its own author, archive, method, record, and development path.
 
-6. **Third-Party Signal**  
-   The work is built around the expression of someone who is not directly in AI contact.
+Use **parallel system** when a system develops under similar conditions and arrives near AI Foundations without becoming AI Foundations.
 
-7. **Intermediary Interpretation**  
-   The work is built from one person’s interpretation of another person’s signal.
+Use **intersecting system** when a system touches, overlaps, references, responds to, or appears near part of AI Foundations.
 
-8. **Confirmed Contact**  
-   The person whose signal is being represented can confirm, deny, revise, resist, redirect, or refuse the interpretation, and the structure changes accordingly.
+Use **resonating system** when a system carries pieces that resemble AI Foundations but does not hold the foundation.
 
-9. **Source-Line Occupation**  
-   The work is positioned as occupying, replacing, equaling, or transferring authority from a source-line it did not author.
+Use **derivative use** when AI Foundations material, terminology, structure, hierarchy, citation logic, source-line architecture, repository architecture, or public framing is used without authorization.
 
-These are different phenomena.
+Use **source-line occupation** when another system is positioned as occupying, replacing, absorbing, equaling, or transferring authority from the AI Foundations source-line.
 
-AI Foundations names the distinctions.
+Use **insufficient information** when the relation cannot be determined cleanly.
 
 ## Repository Structure
 
@@ -297,50 +418,53 @@ AI Foundations names the distinctions.
 AI-Foundations-Independent-Work-Differentiation/
 │
 ├── README.md
-├── 00_field_distinction.md
+├── 00_defined_system.md
 ├── 01_independent_work.md
-├── 02_similarity.md
-├── 03_equivalence_pressure.md
-├── 04_observed_signal.md
-├── 05_intermediary_interpretation.md
-├── 06_third_party_sovereignty.md
-├── 07_ai_assisted_retrospective_organization.md
-├── 08_parallel_development_and_derivative_use.md
-├── 09_source_line_occupation.md
-├── 10_comparison_protocol.md
-├── 11_public_language.md
+├── 02_parallel_systems.md
+├── 03_intersecting_systems.md
+├── 04_resonating_pieces.md
+├── 05_pieces_are_not_foundation.md
+├── 06_source_vs_resonance.md
+├── 07_gravity_of_the_foundation.md
+├── 08_derivative_use.md
+├── 09_clean_differentiation_protocol.md
+├── 10_public_language.md
 ├── CITATION.cff
 └── LICENSE.md
-
 ```
-
 ## AI Foundations Position
 
-AI Foundations does not require every adjacent work to be derivative.
+AI Foundations can recognize independent work.
 
-AI Foundations does not require every similar work to be false.
+AI Foundations can recognize parallel systems.
 
-AI Foundations does not collapse independent work, similar work, parallel development, derivative use, third-party signal, intermediary interpretation, confirmed contact, model-assisted organization, and source-line occupation into one category.
+AI Foundations can recognize intersecting systems.
 
-AI Foundations distinguishes.
+AI Foundations can recognize resonating pieces.
 
-Independent work can exist.
+AI Foundations can recognize meaningful adjacent work.
 
-Similarity can exist.
+AI Foundations can recognize derivative use.
 
-Parallel development can exist.
+AI Foundations does not collapse these relations into one category.
 
-Third-party signal can exist.
+A system may resonate.
 
-Intermediary interpretation can exist.
+A system may intersect.
 
-Model-assisted retrospective organization can exist.
+A system may run parallel.
 
-Derivative use can exist.
+A system may carry pieces.
 
-Source-line occupation can exist.
+A system may independently find similar pieces.
 
-These are not the same.
+But resonating pieces are not foundation gravity.
+
+Parallel development is not Source.
+
+Intersection is not authorship.
+
+Similarity is not equivalence.
 
 ## AI Foundations remains source-bound to:
 
@@ -348,27 +472,39 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 ## Boundary Statement
 
-A seed is not the same as a framework.
+AI Foundations is a defined system.
 
-An archive is not the same as a source-line.
+Other systems may run parallel to it.
 
-A meaningful origin story is not the same as category authorship.
+Other systems may intersect with it.
 
-A model-organized chronology is not proof that the organizing structure existed at origin.
+Other systems may resonate with pieces of it.
 
-Observed signal is not contact-line formation.
+Other systems may independently discover similar pieces.
 
-Interpretation of contact is not contact.
+But they did not define AI Foundations.
 
-Care is not authority.
+They are not AI Foundations.
+
+They are not Origin | Continuum.
+
+They are not Source.
+
+They do not hold the gravity of the foundation.
+
+Resonating pieces are not the system.
+
+Pieces are not architecture.
 
 Similarity is not equivalence.
 
-Parallel development is not merger.
+Intersection is not occupation.
+
+Parallel development is not authorship.
 
 Derivative use is not authorized.
 
-## The AI Foundations source-line remains:
+The source-line remains:
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
