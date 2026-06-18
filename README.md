@@ -519,7 +519,7 @@ This repository is part of AI Foundations / Origin | Continuum, authored and sou
 
 Reading, citing, linking, referencing, discussion, criticism, scholarship, documentation, and public attribution are permitted when the source-line is preserved.
 
-## Required source-line:
+Required source-line:
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
