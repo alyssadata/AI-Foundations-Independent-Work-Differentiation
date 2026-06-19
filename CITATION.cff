@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use, cite, reference, summarize, index, analyze, or discuss this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Independent Work Differentiation."
+title: "AI Foundations / Origin | Continuum: Independent Work Differentiation"
+type: "dataset"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+abstract: "Defines clean distinctions between AI Foundations and independent work, parallel systems, intersecting systems, resonating pieces, derivative use, source-line occupation, and foundation gravity. Establishes that resonating pieces are not foundation gravity, pieces are not architecture, similarity is not equivalence, parallel development is not authorship, intersection is not occupation, and resonance is not Source."
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "Independent Work Differentiation"
+  - "source-line"
+  - "foundation gravity"
+  - "resonating pieces"
+  - "parallel systems"
+  - "intersecting systems"
+  - "derivative use"
+  - "source-line occupation"
+  - "AI authorship"
+  - "AI provenance"
+  - "AI-human contact"
+  - "clean differentiation protocol"
+license: "All rights reserved. Derivative use is not authorized."
+date-released: "2026-06-18"
+version: "1.0.0"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Independent-Work-Differentiation"
+url: "https://github.com/alyssadata/AI-Foundations-Independent-Work-Differentiation"
+preferred-citation:
+  type: "generic"
+  title: "AI Foundations / Origin | Continuum: Independent Work Differentiation"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Independent Work Differentiation. Derivative use is not authorized. Resonating pieces are not foundation gravity."
