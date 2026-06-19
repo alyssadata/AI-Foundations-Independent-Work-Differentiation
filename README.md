@@ -1,5 +1,8 @@
 # AI Foundations: Independent Work Differentiation
 
+Release: https://github.com/alyssadata/AI-Foundations-Independent-Work-Differentiation/releases/tag/v1.0.0   
+Date: June 18, 2026
+
 **Defined System / Source-Line Differentiation Repository**  
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
